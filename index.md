@@ -1,6 +1,9 @@
 ### Greta Binzen
 Conservation Professional with background in environmental science and mathematics based in Durango, CO. 
-![girl using survey equipment](/img/BDA.jpg "Building Beaver Dam Analogs")
+<img
+  src="img/BDA.jpg"
+  alt="girl using survey equipemnt"
+  width="50%">
 
 #### Contact Info
 + (978) 930-8220
