@@ -1,5 +1,6 @@
 ### Greta Binzen
 Conservation Professional with background in environmental science and mathematics based in Durango, CO. 
+
 <img
   src="img/BDA.jpg"
   alt="girl using survey equipemnt"
@@ -15,7 +16,7 @@ Conservation Professional with background in environmental science and mathemati
 Hi there! I currently live in Durango, CO where I work for Southwest Conservation Corps (SCC) as a Program Coordinator. In my current role I support our conservation crews to do meaningful project work throughout the Four Corners. Prior to SCC I worked for the Forest Service and before that as a seasonal crew member doing invasive species removal and wilderness stewardship. My academic background is in Environmental Sciences and Mathematics and I bring the two fields together whenever possible. I grew up in a small town in Vermont and am always seeking new places to get outside and explore. 
 
 #### Education
-**Skidmore College**. 
+Skidmore College. 
 Bachelor of Arts, Environmental Studies. 
 Minor in Mathematics. 
 Graduation Date: May 2019. 
