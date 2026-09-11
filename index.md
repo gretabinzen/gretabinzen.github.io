@@ -28,5 +28,5 @@ Graduation Date: May 2019.
 #### My First Map
 Here is a map of the High Peaks Wilderness in Adirondacks State Park.
 
-<embed type="text/html" src="highpeakswilderness.html" width="600" height="600">
+<embed type="text/html" src="img/highpeakswilderness.html" width="600" height="600">
 
