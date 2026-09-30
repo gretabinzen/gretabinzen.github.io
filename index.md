@@ -28,10 +28,12 @@ Graduation Date: May 2019.
 #### Climate Coding Assignment
 **Temperature Data in Montpelier, VT shows Climate Warming over the past 60 years**
 
-In this assignment I analyzed temperature data from Montpelier, VT from the year 1960 through 2020. I was able to fit a trend line to the data which showed an overall increase in the temperature in Montpelier and indicated the climate has changed over time. Based off of this assignment, I found an increase of .025 degrees celcius per year. This roughly translate to a 2.5 degree fahrenheit increase over those 60 years which is aligned with the Vermont Climate Assessment which was published in 2021 and found a 2 degree increase statewide from 1900 to 2020 (Clark, Crossett, 2021). I chose to use the OLS regression because the data is normally distributed and behaves linearly over time. It is important to note however that the OLS regression cannot take into account other weather patterns that may impact temperature overtime. I feel that fitting the trend line is a helpful visual tool however as I've already mentioned I did not test for statistical significance.
+In this assignment I analyzed temperature data from Montpelier, VT from the year 1960 through 2020. I was able to fit a trend line to the data which showed an overall increase in the temperature in Montpelier and indicated the climate has changed over time. Based off of this assignment, I found an increase of .025 degrees Celcius per year. This roughly translate to a 2.5 degree Fahrenheit increase over those 60 years which is aligned with the [Vermont Climate Assessment](https://site.uvm.edu/vtclimateassessment/files/2021/11/VCA-Chapter-1-11-4-21-1.pdf) which was published in 2021 and found a 2 degree increase statewide from 1900 to 2020. I chose to use the OLS regression because the data is normally distributed and behaves linearly over time. It is important to note however that the OLS regression cannot take into account other weather patterns that may impact temperature overtime. I feel that fitting the trend line is a helpful visual tool however as I've already mentioned I did not test for statistical significance. The data for this project came from [National Oceanic and Atmospheric Administration](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00094705/detail). The full portfolio project can be accessed [here](climate_portfolio_assignment.html).
 
-Bibliography
-Clark, M., Crossett, C., 2021. Climate Change in Vermont. In Galford, G.L., Faulkner, J. et al. (Eds), The Vermont Climate Assessment 2021. Burlington, Vermont: Gund Institute for Environment at the University of Vermont.
+<img
+  src="img/montpelier_temperature_trend.jpg"
+  alt="plowing showing temperature increase of .025 degrees celcius from 1960 to 2020 in Montpelier, VT"
+  width="50%">
 
 #### My First Map
 Here is a map of the High Peaks Wilderness in Adirondacks State Park.
