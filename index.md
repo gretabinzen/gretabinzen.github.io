@@ -25,8 +25,17 @@ Graduation Date: May 2019.
 + Wildlife population trends as indicators of protected area effectiveness in northern Tanzania (published in Journal of Ecological Indicators, Vol 110)
 + Managing Sustainable Tourism in New York’s Adirondack Park: A Case Study of Public Perceptions and Preferences for Reducing the Impacts of Recreation in the High Peaks Wilderness Complex (published in the Journal of Park and Recreation Administration)
 
+#### Climate Coding Assignment
+**Temperature Data in Montpelier, VT shows Climate Warming over the past 60 years**
+
+In this assignment I analyzed temperature data from Montpelier, VT from the year 1960 through 2020. I was able to fit a trend line to the data which showed an overall increase in the temperature in Montpelier and indicated the climate has changed over time. Based off of this assignment, I found an increase of .025 degrees celcius per year. This roughly translate to a 2.5 degree fahrenheit increase over those 60 years which is aligned with the Vermont Climate Assessment which was published in 2021 and found a 2 degree increase statewide from 1900 to 2020 (Clark, Crossett, 2021). I chose to use the OLS regression because the data is normally distributed and behaves linearly over time. It is important to note however that the OLS regression cannot take into account other weather patterns that may impact temperature overtime. I feel that fitting the trend line is a helpful visual tool however as I've already mentioned I did not test for statistical significance.
+
+Bibliography
+Clark, M., Crossett, C., 2021. Climate Change in Vermont. In Galford, G.L., Faulkner, J. et al. (Eds), The Vermont Climate Assessment 2021. Burlington, Vermont: Gund Institute for Environment at the University of Vermont.
+
 #### My First Map
 Here is a map of the High Peaks Wilderness in Adirondacks State Park.
 
 <embed type="text/html" src="img/highpeakswilderness.html" width="600" height="600">
+
 
